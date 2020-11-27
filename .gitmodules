@@ -4,7 +4,7 @@
 	ignore = dirty
 [submodule "build/opus"]
 	path = build/opus
-	url = https://github.com/xiph/opus.git
+	url = https://gitee.com/rzkn/opus.git
 	ignore = dirty
 [submodule "build/lame"]
 	path = build/lame
@@ -12,7 +12,7 @@
 	ignore = dirty
 [submodule "build/x264"]
 	path = build/x264
-	url = https://code.videolan.org/videolan/x264.git
+	url = https://gitee.com/rzkn/x264.git
 	ignore = dirty
 [submodule "build/ffmpeg-webm"]
 	path = build/ffmpeg-webm
